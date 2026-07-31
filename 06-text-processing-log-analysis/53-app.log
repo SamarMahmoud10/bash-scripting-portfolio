@@ -1,0 +1,8 @@
+INFO: User logged in
+ERROR: Database connection failed
+INFO: Payment processing
+WARN: Low disk space
+ERROR: Database connection failed
+ERROR: Authentication timed out
+WARN: Low disk space
+ERROR: Database connection failed
