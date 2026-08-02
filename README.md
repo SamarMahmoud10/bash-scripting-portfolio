@@ -72,3 +72,8 @@ To explore or debug these configurations within a local environment, follow thes
 
 ---
   *Built with high attention to shell safety, POSIX compliance best practices, and clean documentation.*
+
+  ## 🚀 Capstone Projects
+
+* **[Automated Server Health Checker]([https://github.com/SamarMahmoud10/](https://github.com/SamarMahmoud10/bash-server-health-check))**: A production-ready Bash script designed to safely monitor remote servers via SSH, using strict mode, trap handlers, and secure argument parsing.
+
